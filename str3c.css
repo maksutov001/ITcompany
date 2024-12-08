@@ -17,7 +17,7 @@ body {
 .hero-about {
     display: flex;
     flex-direction: column;
-    background-image: url('%D1%84%D0%BE%D0%BD33.jpg');
+    background-image: url('img/%D1%84%D0%BE%D0%BD33.jpg');
     background-size: cover;
     background-position: center;
     height: auto;
